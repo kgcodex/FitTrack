@@ -6,7 +6,6 @@ import sys
 sys.path.insert(1, "/home/kunalgoel/python-workspace/PyDSenv/lib/python3.10/site-packages/streamlit_option_menu")
 from streamlit_option_menu import option_menu
 
-from streamlit_option_menu import option_menu
 from xgboost import XGBRegressor
 import pickle
 import numpy
